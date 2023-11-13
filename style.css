@@ -3,10 +3,8 @@ body {
 }
 
 #clash { 
-  max-width: 100%;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
+  width: 100%;
+
 }
 
 h1 {
